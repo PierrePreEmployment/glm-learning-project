@@ -2,7 +2,9 @@
 
 This is a learning project to understand **Generalised Linear Models** (GLM) using Python.
 
-https://youtu.be/yiOpyAUdLDs
+[![I Built a GLM Data Science Pipeline in Python](https://i1.ytimg.com/vi/yiOpyAUdLDs/sddefault.jpg)](https://www.youtube.com/watch?v=yiOpyAUdLDs)
+
+_**[→ Watch it directly on YouTube](https://www.youtube.com/watch?v=yiOpyAUdLDs)**_
 
 ## Who Built This Learning Project
 
