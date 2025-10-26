@@ -2,6 +2,7 @@
 
 This is a learning project to understand **Generalised Linear Models** (GLM) using Python.
 
+https://youtu.be/yiOpyAUdLDs
 
 ## Who Built This Learning Project
 
